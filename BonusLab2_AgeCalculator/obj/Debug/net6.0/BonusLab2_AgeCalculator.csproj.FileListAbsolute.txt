@@ -1,0 +1,15 @@
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\bin\Debug\net6.0\BonusLab2_AgeCalculator.exe
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\bin\Debug\net6.0\BonusLab2_AgeCalculator.deps.json
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\bin\Debug\net6.0\BonusLab2_AgeCalculator.runtimeconfig.json
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\bin\Debug\net6.0\BonusLab2_AgeCalculator.dll
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\bin\Debug\net6.0\BonusLab2_AgeCalculator.pdb
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\BonusLab2_AgeCalculator.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\BonusLab2_AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\BonusLab2_AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\BonusLab2_AgeCalculator.AssemblyInfo.cs
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\BonusLab2_AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\BonusLab2_AgeCalculator.dll
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\refint\BonusLab2_AgeCalculator.dll
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\BonusLab2_AgeCalculator.pdb
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\BonusLab2_AgeCalculator.genruntimeconfig.cache
+C:\Users\xando\source\repos\BonusLab2_AgeCalculator\BonusLab2_AgeCalculator\obj\Debug\net6.0\ref\BonusLab2_AgeCalculator.dll
